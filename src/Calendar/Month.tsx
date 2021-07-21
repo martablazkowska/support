@@ -12,7 +12,7 @@ const Month: React.FC<props> = ({currentDate}) => {
     .startOf("month")
     .day();
 
-  let devs = ['OZ', 'UK', 'MB', 'PC'];
+  let devs = ['PC', 'OZ', 'MB', 'UK'];
 
 
 
